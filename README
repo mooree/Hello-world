@@ -1,0 +1,18 @@
+ 3 (delta 0), reused 0 (delta 0)
+To git@github.com:mooree/Hello-world.git
+ * [new branch]      master -> master
+Branch master set up to track remote branch master from origin.
+[3:22:27 YEKST] Николай Харитонов: Да. Теперь всё верно. Продолжем.
+[3:22:50 YEKST] Море: Упс, readme пустой.
+[3:22:54 YEKST] Николай Харитонов: Похуй.
+[3:22:57 YEKST] Море: Ок
+[3:23:05 YEKST] Николай Харитонов: Я форкаю твой репозиторий себе
+[3:23:19 YEKST] Николай Харитонов: Теперь у меня есть его копия https://github.com/o4kapuk/Hello-world
+[3:23:38 YEKST] Николай Харитонов: Я клонирую его на локальную машину
+[3:24:25 YEKST] Николай Харитонов: nb-o4kapuk:src o4kapuk$ git clone git@github.com:o4kapuk/Hello-world.git
+Cloning into Hello-world...
+remote: Counting objects: 3, done.
+remote: Total 3 (delta 0), reused 3 (delta 0)
+Receiving objects: 100% (3/3), done.
+Вот так, отлично.
+
